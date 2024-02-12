@@ -21,8 +21,8 @@
 
 name = "Maks"
 name += ", hello!"
-print(name) # $ Maks, hello!
+print(name) # Maks, hello!
 name = int("20") + 5
-print(name) # $ 25
+print(name) # 25
 name = lalala
-print(name) # $ Ошибка! (Нет ковычек)
+print(name) # Ошибка! (Нет ковычек)
